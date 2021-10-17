@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Xin chào các bạn!
 Use the left arrow to go back!
